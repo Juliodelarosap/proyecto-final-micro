@@ -1,0 +1,24 @@
+CONFIG PINES JULIO
+-----------------RELAY---------------------
+FRESA   = D2 -> OUTPUT
+NARANJA = D3 -> OUTPUT
+CHINOLA = D4 -> OUTPUT
+COCTEL  = D5 -> OUTPUT
+-----------------SENSORES-------------------
+DINERO    = D6 -> INPUT
+
+TIPO VASO = D7 -> INPUT
+------------------MATRIZ--------------------
+
+CLK =  PA5 -> OUTPUT
+CS  =  PA6 -> OUTPUT
+DIN =  PA7 -> OUTPUT
+--------------MODULO BLUETOOTH--------------
+
+TX = PC5   -> INPUT
+
+RX = PC4  -> OUTPUT
+
+-----------------BUZZER----------------------
+
+BUZZ = D8
